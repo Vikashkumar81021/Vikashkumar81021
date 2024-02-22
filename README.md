@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Job Seeking**
 
-- 🌱 I’m currently learning **nestjs**
+
 
 - 💬 Ask me about **MERN**
 
