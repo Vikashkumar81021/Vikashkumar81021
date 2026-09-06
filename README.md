@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Job Seeking**
+- 🔭 I’m currently working on ** as a Backend developer**
 
 
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **viku81021@gmail.com**
+- 📫 How to reach me **vikashkumardev438@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
